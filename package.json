@@ -20,6 +20,7 @@
   "homepage": "https://github.com/aisha1710/social-network-api#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.4",
     "mongoose": "^6.0.13"
   },
   "devDependencies": {
